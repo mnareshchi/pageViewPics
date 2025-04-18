@@ -1,11 +1,11 @@
 {
     "photos": [
-      { "id": 1, "imgUrl": "" },
-      { "id": 2, "imgUrl": ""},
-      { "id": 3, "imgUrl": ""},
-      { "id": 4, "imgUrl": ""},
-      { "id": 5, "imgUrl": ""},
-      { "id": 6, "imgUrl": ""}
+      { "id": 1, "imgUrl": "https://drive.google.com/file/d/1PRVdG8GEZHlir57ZOmOfN6sUeymcTQis/view?usp=drive_link" },
+      { "id": 2, "imgUrl": "https://drive.google.com/file/d/1ws8JuvyzgHLwNDNSEbKVzYExvAKhnMRt/view?usp=drive_link"},
+      { "id": 3, "imgUrl": "https://drive.google.com/file/d/15AM_YLNyjfslyTW-XN3jFzKV6zzHKNX3/view?usp=drive_link"},
+      { "id": 4, "imgUrl": "https://drive.google.com/file/d/1fvQQUenUh7kv_GApRk1GYivtnC05neVY/view?usp=drive_link"},
+      { "id": 5, "imgUrl": "https://drive.google.com/file/d/1hFBtaQunCrHLLssseGabhkcwWEJnB_Zv/view?usp=drive_link"},
+      { "id": 6, "imgUrl": "https://drive.google.com/file/d/1_OHtIS-sSRgtOsCKyLidhEy2bQzRl8ue/view?usp=drive_link"}
 
     ]
   }
